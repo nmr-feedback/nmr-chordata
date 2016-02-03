@@ -1,0 +1,185 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 1436
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Australia ; Times: 7
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 19
+	Country: Russia ; Times: 16
+	Country: Bulgaria ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 4
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 9
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-28 ; Times: 4
+	Date: 2015-09-01 ; Times: 13
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 8
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "Montivipera" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 2
+	Query: "Podarcis siculus siculus" ; Times: 1
+	Query: "lacerta agilis" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Eulipoa" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 8
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "genus:blanus" ; Times: 2
+	Query: "Vipera transcaucasiana" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 3
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "Vipera latastei" ; Times: 2
+	Query: "type:specimen genus:Eulipoa" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "ablepharus kitaibelii" ; Times: 1
+	Query: "african elephant" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "Coelodonta antiquitatis" ; Times: 4
+	Query: "crocuta" ; Times: 3
+	Query: "corcovado" ; Times: 1
+	Query: "tamiasciurus douglasi" ; Times: 1
+	Query: "Macrovipera" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "neomys fodiens" ; Times: 1
+	Query: "beluga whale" ; Times: 3
+	Query: "vipera berus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 5
+	Query: "acrocephalus palustris" ; Times: 1
+	Query: "Varanus institutioncode:NMR" ; Times: 1
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "Sulawesi type:specimen class:Mammalia (skeleton)" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "vipera latastei" ; Times: 2
+	Query: "Grismeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1045 download events in this period)
+Total number of records downloaded: 2700
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 25
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 11
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-10 ; Times: 10
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Haplonycteris fischeri" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "genus:bradypus" ; Times: 1
+	Query: "type:specimen genus:Eulipoa" ; Times: 2
+	Query: "caiman" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
