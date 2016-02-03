@@ -1,0 +1,166 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 834
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 4
+	Country: United States ; Times: 38
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 6
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 5
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 4
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 5
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "passer domesticus continent:asia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "genus:Hyla specificepithet:savignyi" ; Times: 1
+	Query: "genus:Salamandra specificepithet:infraimmaculata" ; Times: 1
+	Query: "phylloscopus inornatus continent:Europe" ; Times: 2
+	Query: "vipera aspis" ; Times: 1
+	Query: "Podarcis hispanicus" ; Times: 1
+	Query: "Zamenis situla" ; Times: 1
+	Query: "Dolichophis caspius" ; Times: 1
+	Query: "Macrovipera mauritanica" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Myotragus" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "torpedo" ; Times: 1
+	Query: "Eschrichtius skull" ; Times: 1
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "Parvilacerta parva" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "tapir" ; Times: 2
+	Query: "monster" ; Times: 10
+	Query: "genus:Pelobates specificepithet:syriacus" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 6
+	Query: "lontra longicaudis" ; Times: 3
+	Query: "Laudakia caucasia" ; Times: 1
+	Query: "genus:Tringa year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "onager iran" ; Times: 1
+	Query: "Mammut borsoni" ; Times: 1
+	Query: "Elephas maximus sumatranus" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Lemur catta" ; Times: 1
+	Query: "natrix maura" ; Times: 1
+	Query: "red kite" ; Times: 4
+	Query: "Uromastyx acanthinura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 889 download events in this period)
+Total number of records downloaded: 690
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 4
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-25 ; Times: 2
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-17 ; Times: 8
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Macrovipera mauritanica" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Dolichophis caspius" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "rio grande do sul" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Lepomis" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Lacerta trilineata" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Laudakia caucasia" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Podarcis vaucheri" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+
+
+End of report.
