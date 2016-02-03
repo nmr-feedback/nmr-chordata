@@ -1,0 +1,199 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 507
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 3
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-24 ; Times: 8
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 4
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corcovado costa rica" ; Times: 2
+	Query: "bos grunniens" ; Times: 3
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 1
+	Query: "Mediterranean gull" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "herpailurus" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "lava gull" ; Times: 2
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "andrias davidianus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "Iceland Gull" ; Times: 6
+	Query: "Mammuthus columbi country:&#34;Mexico&#34; fossil:1" ; Times: 1
+	Query: "genus:Leopardus institutioncode:NMR" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "sus verrucosus" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Maluku&#34;" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Platybelodon" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "Bufo spinosus" ; Times: 1
+	Query: "deer antler" ; Times: 5
+	Query: "blue whale" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "institutioncode:nmr" ; Times: 1
+	Query: "skeleton specificepithet:sandvicensis family:Anatidae" ; Times: 1
+	Query: "jynx (skel OR skeleton)" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 823 download events in this period)
+Total number of records downloaded: 1583
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: Chile ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 6
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "deer antler" ; Times: 2
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "ovis aries" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+
+
+End of report.
