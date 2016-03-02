@@ -1,0 +1,121 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 299
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 10
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 9
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ginglymostoma brevicaudatum" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Coelodonta antiquitatis" ; Times: 2
+	Query: "monster" ; Times: 5
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "montivipera wagneri" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "galictis vittata" ; Times: 1
+	Query: "larus fuscus" ; Times: 1
+	Query: "fetus specificepithet:phocoena genus:phocoena" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "aepypodius bruijnii" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 2
+	Query: "Lagenorhynchus acutus" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "vipera aspis" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 512 download events in this period)
+Total number of records downloaded: 1344
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 13
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-18 ; Times: 8
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Delphinidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Eira" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
