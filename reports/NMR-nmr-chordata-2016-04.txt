@@ -1,0 +1,233 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 411
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Czech Republic ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 21
+	Country: Morocco ; Times: 2
+	Country: Sweden ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Russia ; Times: 25
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-09 ; Times: 8
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 13
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 5
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 5
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hemorrhois nummifer" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "eulipoa" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Vipera ammodytes 1" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "epidalea calamita" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "sea lemon" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "heterodontus francisci" ; Times: 4
+	Query: "Vipera latastei" ; Times: 4
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 3
+	Query: "desmana" ; Times: 2
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "Rhinechis scalaris 1" ; Times: 7
+	Query: "pelecanus rufescens" ; Times: 1
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "monster" ; Times: 19
+	Query: "coronella austriaca" ; Times: 3
+	Query: "Platyceps najadum" ; Times: 1
+	Query: "luscinioides" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "blackbird type:specimen year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "pelecanus rufescens (africa skeleton)" ; Times: 1
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "nettapus skeleton" ; Times: 2
+	Query: "Ailuropoda" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Bison bonasus" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 115 (out of 1312 download events in this period)
+Total number of records downloaded: 1673
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 93
+	Country: United States ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 41
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-19 ; Times: 41
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-23 ; Times: 4
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "GADIDAE" ; Times: 2
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "MOLIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+
+
+End of report.
