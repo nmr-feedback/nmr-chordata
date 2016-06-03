@@ -1,0 +1,115 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 269
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Croatia ; Times: 1
+	Country: United States ; Times: 49
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-31 ; Times: 41
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-28 ; Times: 7
+	Date: 2016-05-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "Sus scrofa " ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "netta rufina" ; Times: 2
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "grey whale" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "Anguis" ; Times: 4
+	Query: "Sturnus vulgaris" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 327 download events in this period)
+Total number of records downloaded: 1130
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-31 ; Times: 34
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Anguis" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
