@@ -1,0 +1,203 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 339
+Number of records retrieved in searches: 2807
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 63
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 227
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 167
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 23
+	Date: 2016-06-20 ; Times: 32
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 39
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 24
+	Date: 2016-06-13 ; Times: 11
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 4
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Macaca sylvanus 1" ; Times: 2
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "Ovis aries" ; Times: 2
+	Query: "Pine Marten" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "bison bison   " ; Times: 15
+	Query: "herpailurus" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Bison" ; Times: 1
+	Query: "institutioncode:NMR" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "monster" ; Times: 7
+	Query: "montivipera" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "Homo erectus" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "country:&#34;kyrgyzstan&#34; mappable:1" ; Times: 1
+	Query: "Thoatherium" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "wildebeest" ; Times: 1
+	Query: "hemidactylus persicus" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "mediodactylus kotschyi" ; Times: 1
+	Query: "Homo neanderthalensis" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "alces alces   " ; Times: 6
+	Query: "Chamaeleo chamaeleon 1" ; Times: 5
+	Query: "Elephas antiquus" ; Times: 2
+	Query: "elephas" ; Times: 1
+	Query: "Pelophylax lessonae 1" ; Times: 17
+	Query: "Axis axis" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "eryx jaculus jaculus" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "eryx jaculus" ; Times: 2
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "genus:bison" ; Times: 6
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "class:aves institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 7
+	Query: "Felis catus" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "canis lupus   " ; Times: 2
+	Query: "Stegodon" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "giraffe" ; Times: 4
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 2
+	Query: "macrovipera" ; Times: 1
+	Query: "Diadiaphorus" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "Pelophylax ridibundus 1" ; Times: 9
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1052 download events in this period)
+Total number of records downloaded: 1080
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 60
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 12
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 26
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "TURSIOPS ADUNCUS" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "hemidactylus persicus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
