@@ -1,0 +1,129 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 388
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 72
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 8
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-20 ; Times: 45
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 3
+	Query: "ringed seal" ; Times: 1
+	Query: "ovis canadensis zoo" ; Times: 1
+	Query: "otocolobus manul" ; Times: 1
+	Query: "Aepyornis" ; Times: 2
+	Query: "ovis ammon zoo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:porcus genus:Scorpaena" ; Times: 1
+	Query: "egg holland" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "Hippopotamus zoo" ; Times: 2
+	Query: "Addax zoo" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "bar-headed goose" ; Times: 3
+	Query: "Homo sapiens AND Island" ; Times: 1
+	Query: "specificepithet:hippocampus genus:Hippocampus" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "african elephant" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Platybelodon" ; Times: 1
+	Query: "paraxerus type:specimen year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:macrocephalus genus:Physeter tissue:1" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 8
+	Query: "neofelis nebulosa" ; Times: 1
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "heliosciurus type:specimen year &gt;= 1980 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "anguis fragilis" ; Times: 3
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 2
+	Query: "Callithrix jacchus 1" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 1
+	Query: "ovis zoo" ; Times: 2
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "otter fossil:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 924 download events in this period)
+Total number of records downloaded: 699
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "cercocebus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Acomys" ; Times: 1
+
+
+End of report.
