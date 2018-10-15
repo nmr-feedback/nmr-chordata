@@ -1,0 +1,237 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 43
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 75
+	Country: Finland ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 14
+	Date: 2018-02-02 ; Times: 18
+	Date: 2018-02-01 ; Times: 9
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-04 ; Times: 41
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "iptrecordid:&#34;NMR999000003251&#34;" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "Poeppig" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive)" ; Times: 2
+	Query: "iptrecordid:&#34;NMR999000001229&#34;" ; Times: 4
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera preparations:baleen" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000002985&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;NMR999000001541&#34;" ; Times: 4
+	Query: "neofelis" ; Times: 2
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000000309&#34;" ; Times: 4
+	Query: "Pudu puda" ; Times: 2
+	Query: "specificepithet:glauca genus:Prionace isfossil:1" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "iptrecordid:&#34;NMR999000003252&#34;" ; Times: 2
+	Query: "Pangolin" ; Times: 2
+	Query: "zamenis longissimus" ; Times: 3
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "Coelodonta antiquitatis " ; Times: 1
+	Query: "specificepithet:COLLIEI genus:Hydrolagus isfossil:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "genus:andrias" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 6
+	Query: "Equus asinus" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus country:&#34;Spain&#34;" ; Times: 2
+	Query: "roan antelope" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Pan preparations:skeleton" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "locality:skokholm" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000002979&#34;" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "iptrecordid:&#34;NMR999000002914&#34;" ; Times: 6
+	Query: "specificepithet:cirratum genus:Ginglymostoma isfossil:1" ; Times: 1
+	Query: "Megaloceros giganteus " ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Hyena" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000002999&#34;" ; Times: 4
+	Query: "Larus fuscus" ; Times: 2
+	Query: "sperm whale isfossil:1" ; Times: 1
+	Query: "specificepithet:johnstoni genus:Okapia" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000003276&#34;" ; Times: 2
+	Query: "halichoerus grypus" ; Times: 5
+	Query: "genus:Pelophylax specificepithet:lessonae" ; Times: 1
+	Query: "Elephas maximus sumatranus" ; Times: 2
+	Query: "genus:andrias preparations:alc" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus (zoo OR captive)" ; Times: 1
+	Query: "Tragelaphus buxtoni" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "specificepithet:procyonoides genus:Nyctereutes (captive OR zoo)" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "laudakia caucasia" ; Times: 2
+	Query: "scientificname:&#34;nasua sp.&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;NMR999000000133&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;NMR999000003332&#34;" ; Times: 2
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "pitbull" ; Times: 1
+	Query: "Alces alces cameloides" ; Times: 3
+	Query: "Axis kuhlii " ; Times: 1
+	Query: "Acerodon humilis " ; Times: 2
+	Query: "genus:Mediodactylus year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1892 download events in this period)
+Total number of records downloaded: 1157
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: India ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 49
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 5
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 19
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-05 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Dasyprocta azarae" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
