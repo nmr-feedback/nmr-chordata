@@ -1,0 +1,189 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 485
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 8
+	Country: Gambia ; Times: 1
+	Country: France ; Times: 73
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 6
+	Date: 2017-12-31 ; Times: 5
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 3
+	Date: 2017-12-11 ; Times: 33
+	Date: 2017-12-19 ; Times: 4
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-25 ; Times: 11
+	Date: 2017-12-24 ; Times: 20
+	Date: 2017-12-23 ; Times: 13
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-04 ; Times: 12
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 6
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "bos grunniens" ; Times: 2
+	Query: "continent:america institutioncode:NMR" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Citharus linguatula mappable:1" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Capros aper mappable:1" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 2
+	Query: "Ophidion barbatum mappable:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Ctenolabrus rupestris mappable:1" ; Times: 1
+	Query: "Raja asterias" ; Times: 2
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "Enchelyopus cimbrius mappable:1" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "Raja clavata mappable:1" ; Times: 1
+	Query: "Zeugopterus punctatus mappable:1" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Elephant tusk" ; Times: 2
+	Query: "Amphiprion polymnus" ; Times: 1
+	Query: "Torpedo marmorata mappable:1" ; Times: 1
+	Query: "Ammodytes tobianus mappable:1" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "(14C) isfossil:1" ; Times: 7
+	Query: "Umbrina canariensis mappable:1" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "Bathyraja diplotaenia" ; Times: 1
+	Query: "Dicologlossa cuneata mappable:1" ; Times: 1
+	Query: "Anguilla anguilla specificepithet:Anguilla in anguilla genus:Anguilla" ; Times: 1
+	Query: "Microstomus kitt mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 1
+	Query: "Chiloscyllium arabicum" ; Times: 2
+	Query: "cremona" ; Times: 1
+	Query: "Hyperoplus lanceolatus mappable:1" ; Times: 1
+	Query: "Parascyllium variolatum" ; Times: 3
+	Query: "panthera tigris" ; Times: 5
+	Query: "country:&#34;mexico&#34; institutioncode:NMR" ; Times: 2
+	Query: "moose mn" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Callionymus lyra mappable:1" ; Times: 1
+	Query: "black guillemot mandtii" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "baculum primates" ; Times: 3
+	Query: "clouded leopard" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Leucoraja circularis mappable:1" ; Times: 1
+	Query: "Atelomycterus marmoratus" ; Times: 3
+	Query: "Hemiscyllium ocellatum" ; Times: 3
+	Query: "Dentex macrophthalmus mappable:1" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "yak" ; Times: 1
+	Query: "Labrus bergylta mappable:1" ; Times: 1
+	Query: "Pontinus kuhlii mappable:1" ; Times: 1
+	Query: "Leucoraja naevus mappable:1" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "trumpeter swan" ; Times: 2
+	Query: "Merlangius merlangus mappable:1" ; Times: 1
+	Query: "Phylloscopus ibericus" ; Times: 1
+	Query: "podarcis siculus" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "Raja microocellata mappable:1" ; Times: 1
+	Query: "pine marten" ; Times: 3
+	Query: "great shearwater" ; Times: 1
+	Query: "Eutrigla gurnardus mappable:1" ; Times: 1
+	Query: "Gaidropsarus vulgaris mappable:1" ; Times: 1
+	Query: "Microchirus boscanion mappable:1" ; Times: 1
+	Query: "Trachipterus arcticus mappable:1" ; Times: 1
+	Query: "Scyliorhinus stellaris mappable:1" ; Times: 1
+	Query: "cygnus melancoryphus" ; Times: 2
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Pleuronectes platessa mappable:1" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Bufo spinosus" ; Times: 3
+	Query: "genus:serinus locality:terceira" ; Times: 1
+	Query: "Uranoscopus scaber mappable:1" ; Times: 1
+	Query: "narwal" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Raja brachyura mappable:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Balaenoptera" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 3
+	Query: "Aphia minuta mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 674 download events in this period)
+Total number of records downloaded: 2302
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "Phylloscopus ibericus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "spectacled eider" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "potamotrygonidae" ; Times: 1
+
+
+End of report.
