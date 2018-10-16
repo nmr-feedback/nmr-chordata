@@ -1,0 +1,164 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 1
+	Query: "disaster" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 2
+	Query: "Eschrichtius robustus" ; Times: 2
+	Query: "vntype:specimen genus:hydrodamalis preparations:skull" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "Desmana" ; Times: 2
+	Query: "neofelis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Tarentola boehmei morocco" ; Times: 1
+	Query: "eschrichtus robustus" ; Times: 1
+	Query: "Cyanochen cyanoptera" ; Times: 1
+	Query: "Macrovipera mauritanica" ; Times: 1
+	Query: "Phrynocephalus persicus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis (zoo OR captive)" ; Times: 2
+	Query: "specificepithet:pictus genus:Lycaon year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 1
+	Query: "preparations:skeleton genus:andrias" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "calonectris borealis" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (zoo OR captive)" ; Times: 1
+	Query: "blue whale" ; Times: 3
+	Query: "Anser erythropus" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "corvus splendens" ; Times: 3
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "timon lepidus" ; Times: 1
+	Query: "bubalus bubalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1359 download events in this period)
+Total number of records downloaded: 384
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 19
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "vntype:specimen family:picidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "vntype:specimen family:corvidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "vntype:specimen order:caprimulgiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "vntype:specimen order:charadriiformes (&#34;whole specimen&#34; OR fluid OR alc)" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "vntype:specimen order:apodiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+
+
+End of report.
