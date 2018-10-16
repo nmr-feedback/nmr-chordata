@@ -1,0 +1,133 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 254
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Italy ; Times: 9
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 35
+	Country: Morocco ; Times: 1
+	Country: China ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-08 ; Times: 7
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-16 ; Times: 7
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 6
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "albatros" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "montiviperA" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:NMR" ; Times: 4
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "specificepithet:temporaria genus:Rana institutioncode:NMR" ; Times: 3
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "sea lemon" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "specificepithet:syriacus genus:Pelobates institutioncode:NMR" ; Times: 3
+	Query: "class:Mammalia institutioncode:NMR hastypestatus:1" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "Testudo horsfieldii" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:bufo genus:Bufo institutioncode:NMR" ; Times: 3
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves" ; Times: 1
+	Query: "Loxodonta Congo" ; Times: 3
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "rioraja agassizii" ; Times: 4
+	Query: "specificepithet:splendens genus:Corvus mappable:1" ; Times: 1
+	Query: "blue whale" ; Times: 2
+	Query: "specificepithet:calamita genus:Epidalea institutioncode:NMR" ; Times: 3
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "muntjac" ; Times: 1
+	Query: "specificepithet:splendens genus:Corvus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1178 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Lacertidae" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Loxodonta Congo" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+
+
+End of report.
