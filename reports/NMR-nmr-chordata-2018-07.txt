@@ -1,0 +1,164 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 3
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 23
+	Country: Belgium ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 11
+	Date: 2018-07-09 ; Times: 4
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 6
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 10
+	Date: 2018-07-27 ; Times: 4
+	Date: 2018-07-02 ; Times: 7
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-25 ; Times: 5
+	Date: 2018-07-24 ; Times: 24
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-20 ; Times: 6
+	Date: 2018-07-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 2
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "specificepithet:situla genus:zamenis" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "zoo vntype:specimen specificepithet:procyonoides genus:Nyctereutes family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 2
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 3
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "aonyx capensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "Meleagris gallopavo Linnaeus" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 2
+	Query: "herpailurus" ; Times: 1
+	Query: "javelina" ; Times: 1
+	Query: "genus:Dugong preparations:Skull" ; Times: 2
+	Query: "wilson 1855" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "Anas georgica" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Ailuropoda preparations:skull" ; Times: 5
+	Query: "Cairina moschata" ; Times: 2
+	Query: "italian wall lizard" ; Times: 2
+	Query: "lacerta bilineata" ; Times: 4
+	Query: "zoo vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 2
+	Query: "blue cheeked bee eater" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (captive OR zoo)" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "genus:Hydrodamalis preparations:Skull" ; Times: 1
+	Query: "Eirenis punctatolineatus" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 2
+	Query: "Anser indicus" ; Times: 4
+	Query: "class:Aves institutioncode:NMR hastypestatus:1" ; Times: 1
+	Query: "pudu puda" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:lessonae" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "hen harrier" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:pteneres genus:Tachyeres" ; Times: 2
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "Boar skull" ; Times: 1
+	Query: "Ailuropoda" ; Times: 3
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "anser indicus" ; Times: 2
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Globicephala macrorhynchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 977 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "country:&#34;Aruba&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Ailuropoda" ; Times: 2
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "class:Aves institutioncode:NMR hastypestatus:1" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "lacerta bilineata" ; Times: 1
+
+
+End of report.
