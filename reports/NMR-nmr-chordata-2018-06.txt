@@ -1,0 +1,172 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Austria ; Times: 1
+	Country: China ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Hungary ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 10
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-30 ; Times: 4
+	Date: 2018-06-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 6
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 1
+	Query: "Salamandra infraimmaculata" ; Times: 1
+	Query: "Schioler" ; Times: 1
+	Query: "red partridge" ; Times: 2
+	Query: "situla" ; Times: 1
+	Query: "Pelophylax lessonae" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Salamandra specificepithet:infraimmaculata" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "andrias davidianus" ; Times: 2
+	Query: "spotted hyena" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "Rana asiatica" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Apathya" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "melancoryphus" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "andrias" ; Times: 2
+	Query: "gray whale" ; Times: 1
+	Query: "DSM" ; Times: 1
+	Query: "Vipera" ; Times: 4
+	Query: "Passer domesticus country:&#34;Cyprus&#34;" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "genus:neofelis" ; Times: 3
+	Query: "lacerta media" ; Times: 4
+	Query: "Eremias pleskei" ; Times: 1
+	Query: "mecistops" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "fire salamander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1169 download events in this period)
+Total number of records downloaded: 629
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Hungary ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-07 ; Times: 13
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 3
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "Salamandra infraimmaculata" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "andrias davidianus" ; Times: 2
+	Query: "giant salamander" ; Times: 2
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Eremias pleskei" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "pika" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "situla" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "hyena" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "Microtus" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "fire salamander" ; Times: 1
+
+
+End of report.
