@@ -1,0 +1,173 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 3266
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 3
+	Country: United States ; Times: 42
+	Country: Netherlands ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-26 ; Times: 7
+	Date: 2018-08-01 ; Times: 14
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-27 ; Times: 7
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-22 ; Times: 12
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-20 ; Times: 12
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-29 ; Times: 5
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geronticus eremita" ; Times: 1
+	Query: "country:&#34;kyrgyzstan&#34;" ; Times: 1
+	Query: "homotherium" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Locustella naevia" ; Times: 2
+	Query: "Capra pyrenaica" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "suckermouth catfish" ; Times: 1
+	Query: "lacerta bilineata" ; Times: 1
+	Query: "specificepithet:cataphractus family:Crocodylidae" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "specificepithet:juncidis genus:Cisticola hastissue:1" ; Times: 1
+	Query: "genus:Ailuropoda" ; Times: 2
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "Phrynocephalus persicus" ; Times: 1
+	Query: "rotterdam" ; Times: 1
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "(Netta) institutioncode:NMR" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:europe year &gt;= 1990" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 3
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 3
+	Query: "Tuatara" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "(Microtus guentheri)" ; Times: 1
+	Query: "melogale orientalis" ; Times: 11
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Pteropus hypomelanus Indonesia" ; Times: 1
+	Query: "boano" ; Times: 1
+	Query: "Sphenodon" ; Times: 3
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Podiceps cristatus vntype:specimen country:&#34;Netherlands&#34;" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1416 download events in this period)
+Total number of records downloaded: 421
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 12
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Locustella naevia" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Mus musculus domesticus vntype:specimen genus:Mus" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "puma concolor" ; Times: 4
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "ursus arctos" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
