@@ -1,0 +1,197 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 764
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 121
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 2
+	Country: New Zealand ; Times: 6
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 8
+	Date: 2018-10-04 ; Times: 29
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 15
+	Date: 2018-10-03 ; Times: 16
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-08 ; Times: 18
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 5
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 7
+	Date: 2018-10-15 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Callionymus lyra mappable:1" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 8
+	Query: "specificepithet:stramineus genus:Sciurus" ; Times: 8
+	Query: "Pudu puda" ; Times: 2
+	Query: "Salamandra infraimmaculata" ; Times: 1
+	Query: "Blue whale" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus" ; Times: 1
+	Query: "genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen blue whale" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen orcinus orca" ; Times: 1
+	Query: "specificepithet:notatus genus:Callosciurus" ; Times: 1
+	Query: "specificepithet:sumatrensis genus:Rhizomys" ; Times: 8
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "specificepithet:hageni genus:Petinomys" ; Times: 8
+	Query: "ocelot" ; Times: 2
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "specificepithet:hippurus genus:Sundasciurus" ; Times: 4
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "specificepithet:degus genus:Octodon" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "vntype:specimen specificepithet:troglodytes genus:Troglodytes year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "chinchilla mammalia" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 13
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 8
+	Query: "acrocephalus arundinaceus asia" ; Times: 3
+	Query: "Galictis vittata" ; Times: 2
+	Query: "addax nasomaculatus" ; Times: 1
+	Query: "specificepithet:petaurista genus:Petaurista" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 5
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Entelurus aequoraeus" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 8
+	Query: "dove minnesota" ; Times: 1
+	Query: "genus:Quedenfeldtia year &gt;= 1990" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "specificepithet:marmota genus:Marmota" ; Times: 1
+	Query: "specificepithet:irani genus:Microtus" ; Times: 2
+	Query: "specificepithet:nigrovittatus genus:Callosciurus" ; Times: 8
+	Query: "Eliomys quercinus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "blue whale" ; Times: 4
+	Query: "genus:Dolichotis preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "specificepithet:africaeaustralis genus:Hystrix" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:NMR basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Brachydeuterus auritus" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "specificepithet:caniceps genus:Callosciurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1300 download events in this period)
+Total number of records downloaded: 3997
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: India ; Times: 6
+	Country: France ; Times: 4
+	Country: United States ; Times: 19
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 5
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-13 ; Times: 6
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+	Query: "neofelis" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "prionailurus bengalensis" ; Times: 2
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Eliomys quercinus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "trioceros" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
