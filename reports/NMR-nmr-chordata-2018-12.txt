@@ -1,0 +1,245 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 468
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 87
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mozambique ; Times: 1
+	Country: Germany ; Times: 4
+	Country: United States ; Times: 55
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 26
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-11 ; Times: 11
+	Date: 2018-12-09 ; Times: 12
+	Date: 2018-12-03 ; Times: 9
+	Date: 2018-12-20 ; Times: 19
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-19 ; Times: 20
+	Date: 2018-12-18 ; Times: 6
+	Date: 2018-12-31 ; Times: 4
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-06 ; Times: 10
+	Date: 2018-12-29 ; Times: 5
+	Date: 2018-12-17 ; Times: 17
+	Date: 2018-12-16 ; Times: 7
+	Date: 2018-12-04 ; Times: 5
+	Date: 2018-12-10 ; Times: 11
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera eriwanensis" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 2
+	Query: "panthera  tigris" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 3
+	Query: "Trachurus trachurus mappable:1" ; Times: 2
+	Query: "Lampetra fluviatilis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "Loligo vulgaris mappable:1" ; Times: 2
+	Query: "Mullus surmuletus mappable:1" ; Times: 5
+	Query: "Ophidion barbatum mappable:1" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Microstomus kitt mappable:1" ; Times: 1
+	Query: "Eirenis punctatolineatus" ; Times: 4
+	Query: "galictis vittata" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Raja clavata mappable:1" ; Times: 2
+	Query: "Zeugopterus punctatus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "Glycymeris glycymeris mappable:1" ; Times: 7
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "Torpedo marmorata mappable:1" ; Times: 1
+	Query: "Umbrina canariensis mappable:1" ; Times: 1
+	Query: "otocolobus manul" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "Leucoraja erinacea mappable:1" ; Times: 1
+	Query: "Vipera transcaucasiana" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Macrovipera mauritanica" ; Times: 2
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 2
+	Query: "Halichoerus grypus mappable:1" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 3
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "Pangshura" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 4
+	Query: "Hyperoplus lanceolatus mappable:1" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 5
+	Query: "Callionymus maculatus" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Callionymus lyra mappable:1" ; Times: 5
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Diceros bicornis	 100" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Petromyzon marinus mappable:1" ; Times: 1
+	Query: "Leucoraja circularis mappable:1" ; Times: 1
+	Query: "Halichoerus" ; Times: 2
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Pontinus kuhlii mappable:1" ; Times: 1
+	Query: "Iceland Gull" ; Times: 1
+	Query: "red-footed tortoise" ; Times: 1
+	Query: "Vipera seoanei" ; Times: 1
+	Query: "Leucoraja naevus mappable:1" ; Times: 1
+	Query: "Gobius paganellus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "Merlangius merlangus mappable:1" ; Times: 2
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Lesueurigobius sanzi mappable:1" ; Times: 1
+	Query: "Aeoliscus strigatus" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "Raja microocellata mappable:1" ; Times: 1
+	Query: "vulpes pallida" ; Times: 3
+	Query: "Montivipera wagneri" ; Times: 2
+	Query: "Gaidropsarus vulgaris mappable:1" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Microchirus boscanion mappable:1" ; Times: 1
+	Query: "Lepidosiren paradoxa" ; Times: 4
+	Query: "Trachipterus arcticus mappable:1" ; Times: 1
+	Query: "Scyliorhinus stellaris mappable:1" ; Times: 2
+	Query: "Dolichophis caspius" ; Times: 1
+	Query: "Wall Lizard" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Liparis liparis mappable:1" ; Times: 1
+	Query: "Montivipera albizona" ; Times: 3
+	Query: "Nasikabatrachus sahyadrensis" ; Times: 1
+	Query: "Pleuronectes platessa mappable:1" ; Times: 5
+	Query: "Podarcis hispanicus" ; Times: 6
+	Query: "Merluccius merluccius mappable:1" ; Times: 1
+	Query: "Neogobius melanostomus mappable:1" ; Times: 1
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "Uranoscopus scaber mappable:1" ; Times: 3
+	Query: "Lipophrys pholis mappable:1" ; Times: 1
+	Query: "Labrus bergylta mappable:1" ; Times: 4
+	Query: "Myxine glutinosa mappable:1" ; Times: 1
+	Query: "felis margarita" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 809 download events in this period)
+Total number of records downloaded: 730
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 17
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-09 ; Times: 7
+	Date: 2018-12-03 ; Times: 6
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 6
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "otocolobus manul" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Soricidae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Apodemus sylvaticus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Rodentia" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "felis margarita" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
