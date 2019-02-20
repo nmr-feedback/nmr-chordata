@@ -1,0 +1,196 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 947
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Bonaire ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Saint Kitts and Nevis ; Times: 1
+	Country: France ; Times: 25
+	Country: United States ; Times: 91
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 19
+	Date: 2019-01-23 ; Times: 10
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 13
+	Date: 2019-01-30 ; Times: 13
+	Date: 2019-01-17 ; Times: 9
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 12
+	Date: 2019-01-29 ; Times: 11
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-09 ; Times: 8
+	Date: 2019-01-22 ; Times: 11
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "Gobius paganellus mappable:1" ; Times: 3
+	Query: "little egret" ; Times: 1
+	Query: "genus:Pygoscelis institutioncode:NMR" ; Times: 1
+	Query: "gbifdatasetid:7a28b1b1-9d4c-4aeb-b239-38865417b5ea" ; Times: 2
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:NMR" ; Times: 1
+	Query: "Mediodactylus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "country:&#34;Sint Eustatius&#34;" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "institutioncode:NMR" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 2
+	Query: "platyceps najadum" ; Times: 2
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;MA&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 8
+	Query: "Anas georgica" ; Times: 1
+	Query: "Eulipoa egg" ; Times: 2
+	Query: "specificepithet:kuhlii genus:axis" ; Times: 4
+	Query: "wall lizard" ; Times: 2
+	Query: "Lophonetta specularioides" ; Times: 1
+	Query: "Panthera tigris altaica" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "genus:Alopex" ; Times: 3
+	Query: "monster" ; Times: 2
+	Query: "genus:thecadactylus year &gt;= 1990" ; Times: 1
+	Query: "Laudakia caucasia" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+	Query: "Panthera onca" ; Times: 53
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "specificepithet:pygargus genus:Capreolus" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 12
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "bowhead" ; Times: 1
+	Query: "axis deer" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "European Bison" ; Times: 1
+	Query: "Eulipoa" ; Times: 1
+	Query: "Scorpaena maderensis mappable:1" ; Times: 2
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "Lipophrys pholis mappable:1" ; Times: 2
+	Query: "three spined stickleback" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "okapi" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "trapelus agilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 962 download events in this period)
+Total number of records downloaded: 505
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Spain&#34; preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
