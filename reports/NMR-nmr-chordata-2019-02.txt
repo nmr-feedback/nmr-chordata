@@ -1,0 +1,184 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 41
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 38
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 7
+	Country: Italy ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 5
+	Date: 2019-02-04 ; Times: 6
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-13 ; Times: 12
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 9
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-27 ; Times: 18
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-08 ; Times: 8
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 12
+	Date: 2019-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:causus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "country:(Russian Federation)" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "country:&#34;Russian Federation&#34;" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "macrovipera" ; Times: 1
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "Procellaria conspicillata" ; Times: 2
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 1
+	Query: "Microchirus boscanion mappable:1" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "polyplectron mount vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Trachurus trecae mappable:1" ; Times: 1
+	Query: "draaihals" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "country:(USSR OR Russian Federation)" ; Times: 2
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "polyplectron mount male vntype:specimen basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:genei genus:Larus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "Pterodroma cookii" ; Times: 2
+	Query: "Eumeces schneideri" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 6
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "Kyrgyzstan" ; Times: 2
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "killer whale" ; Times: 1
+	Query: "country:(U.S.S.R. OR USSR OR Russian Federation)" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "siberian tiger" ; Times: 2
+	Query: "Gobius paganellus mappable:1" ; Times: 1
+	Query: "lullula arborea" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "specificepithet:asiatica genus:Rana" ; Times: 2
+	Query: "Bathyraja spinicauda mappable:1" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "great auk" ; Times: 5
+	Query: "Lipophrys pholis mappable:1" ; Times: 1
+	Query: "country:(Russian Federation OR U.S.S.R)" ; Times: 1
+	Query: "Raja brachyura mappable:1" ; Times: 1
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "tachymarptis" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos (skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:aureus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "genus:Asaccus" ; Times: 1
+	Query: "monodon" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1227 download events in this period)
+Total number of records downloaded: 611
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 22
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-14 ; Times: 11
+	Date: 2019-02-13 ; Times: 6
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "berylmys" ; Times: 2
+	Query: "Panthera onca" ; Times: 6
+	Query: "rynchops niger" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "&#34;Apodemus mystacinus&#34;" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
