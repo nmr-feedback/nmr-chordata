@@ -1,0 +1,202 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 434
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 59
+	Country: Spain ; Times: 1
+	Country: Taiwan ; Times: 3
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 4
+	Date: 2019-03-22 ; Times: 4
+	Date: 2019-03-21 ; Times: 10
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 7
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 13
+	Date: 2019-03-15 ; Times: 45
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Dolichophis caspius" ; Times: 1
+	Query: "Vipera eriwanensis" ; Times: 1
+	Query: "Bitis rhinoceros" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:rueppelii year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 4
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 6
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 3
+	Query: "Montivipera xanthina" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Coelognathus radiatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "aquila clanga" ; Times: 1
+	Query: "Eirenis punctatolineatus" ; Times: 1
+	Query: "boanensis" ; Times: 2
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "muscovy duck" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 1
+	Query: "aves indonesia boano" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Procellaria parkinsoni" ; Times: 1
+	Query: "Dolichophis jugularis" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Dendrelaphis grismeri" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Zamenis hohenackeri" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "Xenochrophis asperrimus" ; Times: 1
+	Query: "Chrysopelea ornata" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Platyceps najadum" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Malayopython timoriensis" ; Times: 1
+	Query: "sawfish" ; Times: 2
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "specificepithet:rueppelii year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "Elaphe schrenckii" ; Times: 1
+	Query: "Philothamnus irregularis" ; Times: 1
+	Query: "Zamenis longissimus" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "ocelot" ; Times: 3
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "Epicrates maurus" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Hemorrhois nummifer" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "Hemorrhois algirus" ; Times: 1
+	Query: "Vipera seoanei" ; Times: 1
+	Query: "Long nosed snake" ; Times: 1
+	Query: "Malayopython reticulatus" ; Times: 1
+	Query: "Rhinechis scalaris" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrelaphis striatus" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Raja microocellata" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "Montivipera wagneri" ; Times: 1
+	Query: "Cyclophiops major" ; Times: 1
+	Query: "Zamenis situla" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Gonionotophis capensis" ; Times: 1
+	Query: "Vipera berus 2018" ; Times: 2
+	Query: "cheetah" ; Times: 1
+	Query: "Muraena helena" ; Times: 3
+	Query: "Montivipera raddei" ; Times: 1
+	Query: "Montivipera albizona" ; Times: 1
+	Query: "Leptotyphlops macrorhynchus" ; Times: 1
+	Query: "Raja montagui" ; Times: 2
+	Query: "Vipera transcaucasiana" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Zamenis lineatus" ; Times: 1
+	Query: "Brachydeuterus auritus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1281 download events in this period)
+Total number of records downloaded: 373
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 20
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "panda" ; Times: 2
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Ophiophagus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
