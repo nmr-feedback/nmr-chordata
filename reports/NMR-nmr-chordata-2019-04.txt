@@ -1,0 +1,155 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 286
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 34
+	Country: Slovenia ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Greece ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 6
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-23 ; Times: 9
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-06 ; Times: 7
+	Date: 2019-04-27 ; Times: 5
+	Date: 2019-04-24 ; Times: 6
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+	Date: 2019-04-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Strasbourg" ; Times: 1
+	Query: "zamenis" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "vipera aspis" ; Times: 3
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 1
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "specificepithet:saundersi genus:Sterna" ; Times: 4
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "Anas georgica" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "genus:Mephitis institutioncode:NMR" ; Times: 1
+	Query: "(Elephas)" ; Times: 1
+	Query: "yak" ; Times: 1
+	Query: "Macaca sylvanus" ; Times: 5
+	Query: "genus:Elephas (Elephas)" ; Times: 1
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes preparations:alcohol" ; Times: 2
+	Query: "genus:aonyx specificepithet:capensis" ; Times: 5
+	Query: "specificepithet:natrix genus:Natrix continent:Europe year &gt;= 1985 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "genus:podarcis siculus sex:male" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "genus:Pelophylax specificepithet:lessonae" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "UCSB Holland" ; Times: 1
+	Query: "blanus strauchi" ; Times: 1
+	Query: "okapi" ; Times: 1
+	Query: "bearded seal" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "jack snipe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1263 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-22 ; Times: 5
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "specificepithet:siculus genus:podarcis" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "specificepithet:longicaudis genus:Lontra family:Mustelidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+
+
+End of report.
