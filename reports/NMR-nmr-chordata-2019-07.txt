@@ -1,0 +1,228 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 3343
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 71
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 40
+	Country: Sweden ; Times: 12
+	Country: Vietnam ; Times: 3
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 10
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 40
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-17 ; Times: 5
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 14
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-09 ; Times: 11
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 22
+	Date: 2019-07-04 ; Times: 9
+	Date: 2019-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "NMR Chordata NMR998900004843" ; Times: 2
+	Query: "NMR Chordata NMR998900004842" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "daption capense year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "NMR Chordata NMR998900004844" ; Times: 1
+	Query: "giant anteater" ; Times: 1
+	Query: "olfactory" ; Times: 1
+	Query: "aves eremita" ; Times: 1
+	Query: "pterodroma mollis" ; Times: 2
+	Query: "nutria" ; Times: 1
+	Query: "Procellaria aequinoctialis conspicillata" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "gbifdatasetid:7a28b1b1-9d4c-4aeb-b239-38865417b5ea procellariiformes" ; Times: 9
+	Query: "genus:Poroderma specificepithet:pantherinum" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Anas zonorhyncha" ; Times: 1
+	Query: "genus:Homo specificepithet:erectus" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Homo specificepithet:neanderthalensis" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "coypu" ; Times: 1
+	Query: "Actinemys" ; Times: 3
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "brown booby" ; Times: 2
+	Query: "class:Aves country:&#34;Indonesia&#34; preparations:skin year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 2
+	Query: "family:Homalopsidae" ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "genus:Anguis" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Centrochelys" ; Times: 1
+	Query: "sus scrofa domesticus" ; Times: 1
+	Query: "lacerta media" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon NOT Liberia NOT Angola NOT Sudan)" ; Times: 1
+	Query: "pachyptila desolata year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "pachyptila turtur new zealand" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sumatrensis" ; Times: 1
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "Darevskia chlorogaster" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "bulweria hastissue:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "eirenis modestus" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 1
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "specificepithet:maximus genus:Elephas" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "NMR Chordata NMR998900004765" ; Times: 1
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "procellaria conspicillata" ; Times: 3
+	Query: "pachyptila turtur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;=2019" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 1
+	Query: "Bos primigenius vntype:specimen" ; Times: 1
+	Query: "specificepithet:arundinaceus genus:Acrocephalus year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "daption capense year &gt;= 1960 year &lt;= 2019 new zealand" ; Times: 1
+	Query: "gbifdatasetid:7a28b1b1-9d4c-4aeb-b239-38865417b5ea" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 9
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "Procellaria conspicillata" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 3
+	Query: "Raja binoculata" ; Times: 1
+	Query: "Pelobates syriacus" ; Times: 1
+	Query: "specificepithet:borin genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "Bos primigenius" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:Equus specificepithet:sp." ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Pan troglodytes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Blanus strauchi" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 1
+	Query: "phelsuma grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 985 download events in this period)
+Total number of records downloaded: 534
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 13
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "family:Homalopsidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "upupa epops" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "class:Aves country:&#34;Indonesia&#34; preparations:skin year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
