@@ -1,0 +1,169 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 370
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Turkey ; Times: 11
+	Country: France ; Times: 4
+	Country: United States ; Times: 62
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Greece ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 11
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 7
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 18
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 13
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Montivipera" ; Times: 2
+	Query: "pine vole" ; Times: 3
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "order:CARNIVORA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Montivipera wagneri" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Carcharhinus oxyrhynchus" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:NMR" ; Times: 3
+	Query: "genus:Salamandra specificepithet:infraimmaculata" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "&#34;Microstomus kitt&#34;" ; Times: 1
+	Query: "genus:Pinguinus year &gt;= 1800" ; Times: 1
+	Query: "Saxicola torquatus sex:female hastissue:1" ; Times: 1
+	Query: "vipera eriwanensis" ; Times: 3
+	Query: "genus:balaenoptera order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Vipera eriwanensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 5
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "specificepithet:lessonae genus:Pelophylax" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "vntype:specimen specificepithet:astrild genus:Estrilda hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "nivalis mustela" ; Times: 2
+	Query: "gray whale" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "collared dove" ; Times: 1
+	Query: "Aves Pyrenees" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "hydrodamalis" ; Times: 1
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "turkish" ; Times: 1
+	Query: "Eremias pleskei" ; Times: 11
+	Query: "&#34;White-crowned pigeon&#34;" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "specificepithet:graeca genus:Rana" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "tuatara" ; Times: 1
+	Query: "Dendrelaphis grismeri" ; Times: 1
+	Query: "specificepithet:lyra genus:trigla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1073 download events in this period)
+Total number of records downloaded: 181
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 18
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+
+
+End of report.
