@@ -1,0 +1,214 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 942
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 78
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Uruguay ; Times: 19
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 16
+	Country: Argentina ; Times: 5
+	Country: Ukraine ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 5
+	Date: 2020-02-26 ; Times: 8
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-07 ; Times: 4
+	Date: 2020-02-04 ; Times: 11
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 11
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 11
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-17 ; Times: 22
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-02 ; Times: 3
+	Date: 2020-02-25 ; Times: 6
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "stegostoma" ; Times: 1
+	Query: "Neochen jubata" ; Times: 2
+	Query: "(siberian tiger)" ; Times: 1
+	Query: "gbifdatasetid:7a28b1b1-9d4c-4aeb-b239-38865417b5ea" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "Teira dugesii" ; Times: 2
+	Query: "great Auk" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:NMR" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:NMR" ; Times: 1
+	Query: "physeter vntype:specimen preparations:skeleton" ; Times: 2
+	Query: "megapodius freycinet freycinet" ; Times: 1
+	Query: "neochen jubata" ; Times: 10
+	Query: "procellariiformes institutioncode:NMR hastissue:1" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "genus:neochen preparations:skeleton" ; Times: 10
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "&#34;okapi&#34;" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Pristurus institutioncode:NMR" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Vipera latastei" ; Times: 2
+	Query: "megapodius freycinet" ; Times: 8
+	Query: "Galictis vittata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Crested porcupine Hystrix cristata" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:NMR" ; Times: 1
+	Query: "ovis ammon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:lessonae" ; Times: 3
+	Query: "california kingsnake" ; Times: 3
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "specificepithet:puiseuxi genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "&#34;Lontra longicaudis&#34;" ; Times: 3
+	Query: "procellariiformes institutioncode:NMR" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Saurodactylus institutioncode:NMR" ; Times: 1
+	Query: "Beech marten" ; Times: 1
+	Query: "megapodius freycinet waigeo" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "asaccus" ; Times: 1
+	Query: "Cephalorhynchus heavisidii" ; Times: 1
+	Query: "specificepithet:wagneri country:&#34;Turkey&#34;" ; Times: 3
+	Query: "cystophora" ; Times: 2
+	Query: "cheetah" ; Times: 2
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Pongo pygmaeus haslifestage:1" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 1
+	Query: "California kingsnake" ; Times: 2
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "calamita Epidalea" ; Times: 1
+	Query: "fulmarus glacialis norway year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:boehmei genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "daption new zealand" ; Times: 3
+	Query: "procellariiformes institutioncode:NMR tissue" ; Times: 1
+	Query: "specificepithet:trachyblepharus genus:Quedenfeldtia institutioncode:NMR" ; Times: 1
+	Query: "genus:Bufo specificepithet:spinosus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Ptyodactylus puiseuxi" ; Times: 1
+	Query: "leopard gecko" ; Times: 1
+	Query: "specificepithet:celerrimus genus:Pristurus institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:griseonotus genus:Asaccus institutioncode:NMR" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "puffinus assimilis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:NMR" ; Times: 1
+	Query: "asaccus griseonotus" ; Times: 2
+	Query: "Martes foina" ; Times: 5
+	Query: "poroderma" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1023 download events in this period)
+Total number of records downloaded: 727
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 24
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Iraq ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-27 ; Times: 7
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:siculus genus:podarcis" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Nasua narica" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Ptyodactylus puiseuxi" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
