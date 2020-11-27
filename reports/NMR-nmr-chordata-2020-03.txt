@@ -1,0 +1,191 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 563
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 40
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 4
+	Country: Slovakia ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 61
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 12
+	Date: 2020-03-02 ; Times: 24
+	Date: 2020-03-19 ; Times: 9
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-27 ; Times: 5
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-23 ; Times: 14
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-18 ; Times: 23
+	Date: 2020-03-20 ; Times: 12
+	Date: 2020-03-05 ; Times: 10
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-04 ; Times: 6
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-14 ; Times: 7
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Kerivoula picta" ; Times: 2
+	Query: "Nyctalus azoreum" ; Times: 2
+	Query: "macaque" ; Times: 1
+	Query: "specificepithet:ruderatus genus:trapelus" ; Times: 1
+	Query: "puffinus elegans" ; Times: 6
+	Query: "Scotophilus leucogaster" ; Times: 1
+	Query: "specificepithet:bidens genus:mesoplodon" ; Times: 6
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "Trachylepis vittata" ; Times: 1
+	Query: "sitta krueperi" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "genus:Nasikabatrachus specificepithet:sahyadrensis" ; Times: 2
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "family:canidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Vipera country:&#34;Turkey&#34;" ; Times: 1
+	Query: "turtur new zealand" ; Times: 1
+	Query: "Cephalorhynchus heavisidii" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "Myotis emarginatus" ; Times: 2
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Nyctimene cephalotes" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "family:Suidae preparations:skeleton" ; Times: 2
+	Query: "genus:Chrysocyon country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "genus:Gazella specificepithet:soemmerringii" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Nasikabatrachus" ; Times: 4
+	Query: "Vipera berus" ; Times: 1
+	Query: "Myotis dasycneme" ; Times: 2
+	Query: "Nasikabatrachus sahyadrensis" ; Times: 4
+	Query: "Pteropus pumilus" ; Times: 1
+	Query: "Macroglossus sobrinus" ; Times: 2
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 2
+	Query: "Grampus griseus" ; Times: 2
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "eremita" ; Times: 1
+	Query: "impennis" ; Times: 1
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "Nyctereutes" ; Times: 2
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "Kerivoula hardwickii" ; Times: 2
+	Query: "Felis margarita" ; Times: 1
+	Query: "Pteropus hypomelanus" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 4
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "Evolutionary Biology Unit" ; Times: 2
+	Query: "Vespertilio murinus" ; Times: 2
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Acerodon humilis" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "bulweria bulweria year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "loligo" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "hyena" ; Times: 2
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "Rhinolophus philippinensis" ; Times: 1
+	Query: "macrovipera" ; Times: 1
+	Query: "LAcerta media" ; Times: 1
+	Query: "specificepithet:brachyurus family:CANIDAE country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 853 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:californiae genus:Lampropeltis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "LAcerta media" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Turkey&#34;" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+
+
+End of report.
