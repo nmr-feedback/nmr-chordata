@@ -1,0 +1,148 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 31
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Latvia ; Times: 1
+	Country: Slovakia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 5
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 11
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 3
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 7
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 7
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 1
+	Query: "specificepithet:spinosus genus:Bufo" ; Times: 2
+	Query: "SERVAL" ; Times: 2
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "specificepithet:calamita genus:Epidalea" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "Lepidosiren" ; Times: 2
+	Query: "specificepithet:horsfieldii genus:testudo" ; Times: 7
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 2
+	Query: "greylag goose" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "vipera renardi" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 10
+	Query: "Varanus timorensis" ; Times: 2
+	Query: "tufted duck" ; Times: 2
+	Query: "kaznakovi" ; Times: 1
+	Query: "Sus scrofa domesticus" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 2
+	Query: "wild boar" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "genus:Eubalaena glacialis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "genus:Pelophylax specificepithet:esculentus" ; Times: 1
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "genus:ailurus" ; Times: 1
+	Query: "pagodroma" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "Neogobius melanostomus" ; Times: 1
+	Query: "domestic chicken" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;VA&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vipera eriwanensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 596 download events in this period)
+Total number of records downloaded: 966
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 4
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Eubalaena glacialis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
