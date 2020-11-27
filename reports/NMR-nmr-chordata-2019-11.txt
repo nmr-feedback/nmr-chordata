@@ -1,0 +1,184 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 1230
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 5
+	Country: Israel ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Paraguay ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Denmark ; Times: 47
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 38
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-30 ; Times: 3
+	Date: 2019-11-15 ; Times: 8
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 9
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-20 ; Times: 8
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 7
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 12
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-03 ; Times: 38
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 1
+	Query: "jird" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "northern mallard" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 2
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "Molgula manhattensis mappable:1" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Leopardus pardalis 2018" ; Times: 4
+	Query: "Ciona intestinalis mappable:1" ; Times: 1
+	Query: "Holochilus sciureus" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "scaly-breasted munia" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "order:passeriformes institutioncode:NMR" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Banteng" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Styela clava mappable:1" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Nasua narica" ; Times: 4
+	Query: "Ovis aries" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 6
+	Query: "Ascidiella aspersa mappable:1" ; Times: 1
+	Query: "Andrias" ; Times: 4
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Andrias vntype:specimen" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Labrus bergylta mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "Botryllus schlosseri mappable:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "capra spain" ; Times: 5
+	Query: "Panthera onca" ; Times: 1
+	Query: "ovis spain" ; Times: 2
+	Query: "genus:Pelophylax specificepithet:esculentus" ; Times: 1
+	Query: "Leopardus pardalis 1991" ; Times: 4
+	Query: "vntype:specimen genus:Andrias" ; Times: 3
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Varanus macraei" ; Times: 1
+	Query: "genus:Bufo specificepithet:spinosus" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "Larus Thayer’s PSM" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "THayer’s gull pSm" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 3
+	Query: "family:canidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "narwhal" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1367 download events in this period)
+Total number of records downloaded: 247
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 16
+	Country: Israel ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Bosnia and Herzegovina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Holochilus" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "capra spain" ; Times: 1
+	Query: "ovis spain" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+
+
+End of report.
