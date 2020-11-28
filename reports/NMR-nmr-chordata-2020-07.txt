@@ -1,0 +1,177 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 181
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 7
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 14
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 16
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 6
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-29 ; Times: 6
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "genus:Larus country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 1
+	Query: "specificepithet:Lutra lutra" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 2
+	Query: "okapia" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 5
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "family:Alcidae country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 1
+	Query: "genus:Uria country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "genus:Tringa country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Turdus country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "genus:Fratercula country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "larus bulleri" ; Times: 3
+	Query: "Bos grunniens" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 3
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "mecistops" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 5
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 940 download events in this period)
+Total number of records downloaded: 6536
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Sweden ; Times: 6
+	Country: Colombia ; Times: 8
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 7
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;morocco&#34; year &gt;= 1971 year &lt;= 1972" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Alcidae country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Sundamys" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+
+
+End of report.
