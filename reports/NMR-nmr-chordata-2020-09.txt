@@ -1,0 +1,259 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 1341
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 100
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 73
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-08 ; Times: 5
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 11
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 12
+	Date: 2020-09-22 ; Times: 8
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 42
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-16 ; Times: 20
+	Date: 2020-09-14 ; Times: 12
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 24
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenolabrus rupestris" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Pontinus kuhlii" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:NMR" ; Times: 2
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Scorpaena elongata" ; Times: 1
+	Query: "vntype:specimen genus:Callonetta class:Aves" ; Times: 2
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NMR" ; Times: 2
+	Query: "Taurulus bubalis" ; Times: 1
+	Query: "Lipophrys pholis" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 5
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "mytilus" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 5
+	Query: "Dalophis imberbis" ; Times: 1
+	Query: "Ophidion rochei" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:NMR" ; Times: 1
+	Query: "Umbrina canariensis" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "Mola mola" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:sturnus year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "leopard gecko" ; Times: 2
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 2
+	Query: "Oblada melanura" ; Times: 1
+	Query: "Dentex macrophthalmus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "specificepithet:antiquitatis genus:Coelodonta" ; Times: 10
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "vntype:specimen genus:Coscoroba class:Aves" ; Times: 2
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:NMR" ; Times: 2
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Ophidion barbatum" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "Scophthalmus maximus" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 1
+	Query: "panthera tigris sumatrae" ; Times: 2
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "specificepithet:puiseuxi genus:Ptyodactylus institutioncode:NMR" ; Times: 2
+	Query: "genus:Odobenus year &gt;= 2015" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Scorpaena maderensis" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "genus:elaphurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Diplodus puntazzo" ; Times: 1
+	Query: "Echelus myrus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Sphoeroides marmoratus" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "Chelidonichthys cuculus" ; Times: 1
+	Query: "specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "Gobius paganellus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Ariosoma balearicum" ; Times: 1
+	Query: "scientificname:Ailuropoda melanoleuca" ; Times: 32
+	Query: "mappable:1 scientificname:Mullus surmuletus" ; Times: 2
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 3
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "Malayopython reticulatus" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NMR" ; Times: 2
+	Query: "specificepithet:griseonotus genus:Asaccus institutioncode:NMR" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Peristedion cataphractum" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Lesueurigobius sanzi" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "Halobatrachus didactylus" ; Times: 1
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "year &gt; 1985 NOT CLO NOT &#34;nature Kenya&#34; CYANOCHEN" ; Times: 1
+	Query: "Pomatoschistus pictus" ; Times: 1
+	Query: "Aepypodius year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "specificepithet:buxtoni genus:Tragelaphus" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1989 year &lt;= 1991" ; Times: 2
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Muraena helena" ; Times: 1
+	Query: "Lepadogaster lepadogaster" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Pomatoschistus microps" ; Times: 1
+	Query: "Chlopsis bicolor" ; Times: 1
+	Query: "Acipenser sturio" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Labrus mixtus" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Gymnammodytes cicerelus" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "specificepithet:boehmei genus:Tarentola institutioncode:NMR" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "narwhal" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 976 download events in this period)
+Total number of records downloaded: 1580
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 32
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-20 ; Times: 4
+	Date: 2020-09-23 ; Times: 4
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 6
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "vntype:specimen genus:Rousettus family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "order:Falconiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Charadriiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:buxtoni genus:Tragelaphus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "order:Strigiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "Collocalia esculenta" ; Times: 1
+
+
+End of report.
