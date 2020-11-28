@@ -1,0 +1,138 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1759
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 151
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-26 ; Times: 5
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 10
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-15 ; Times: 10
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 60
+	Date: 2020-06-11 ; Times: 56
+	Date: 2020-06-12 ; Times: 7
+	Date: 2020-06-17 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "Laysan Duck" ; Times: 1
+	Query: "Salmo salar" ; Times: 9
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "Spot-billed duck" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "grey squirrel" ; Times: 2
+	Query: "raja miraletus" ; Times: 2
+	Query: "oblada melanura" ; Times: 1
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 5
+	Query: "Anas luzonica" ; Times: 2
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Muscovy Duck" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 1
+	Query: "White-cheeked Pintail" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Chelon labrosus" ; Times: 6
+	Query: "family:Spheniscidae preparations:wing" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "specificepithet:europaeus genus:Mesoplodon" ; Times: 1
+	Query: "ZMU" ; Times: 1
+	Query: "Lagenorhynchus albirostris mappable:1" ; Times: 3
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "Yellow-billed Duck" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Anas melleri" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Anas falcata" ; Times: 6
+	Query: "Anas penelope" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "great auk" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "specificepithet:lutra genus:lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 474 download events in this period)
+Total number of records downloaded: 95
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 5
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+
+
+End of report.
