@@ -1,0 +1,240 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 1405
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 9
+	Country: Kyrgyzstan ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 40
+	Country: United Kingdom ; Times: 66
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 24
+	Date: 2020-08-06 ; Times: 11
+	Date: 2020-08-19 ; Times: 15
+	Date: 2020-08-12 ; Times: 7
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 9
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 7
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-27 ; Times: 6
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 7
+	Date: 2020-08-14 ; Times: 9
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-20 ; Times: 13
+	Date: 2020-08-21 ; Times: 66
+
+List of queries that retrieved data from the resource: 
+	Query: "Cercopithecus cephus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:NMR" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Rana asiatica" ; Times: 2
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "siberian tiger" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:trachyblepharus genus:Quedenfeldtia institutioncode:NMR" ; Times: 5
+	Query: "Cyanopica cyanus" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Macaca maura" ; Times: 1
+	Query: "specificepithet:griseonotus genus:Asaccus institutioncode:NMR" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Pelophylax lessonae" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "Eutrigla gurnardus" ; Times: 2
+	Query: "coronella girondica" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Crossoptilon auritum" ; Times: 1
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "specificepithet:puiseuxi genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "genus:Actinemys" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Saurodactylus institutioncode:NMR" ; Times: 5
+	Query: "Solea solea" ; Times: 2
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 1
+	Query: "family:hyaenidae isfossil:1" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "Cercopithecus campbelli" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "specificepithet:celerrimus genus:Pristurus institutioncode:NMR" ; Times: 5
+	Query: "specificepithet:flavipunctatus genus:Pristurus institutioncode:NMR" ; Times: 5
+	Query: "Cryptomys ochraceocinereus" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "class:AVES (Radde)" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Anas falcata" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "specificepithet:senator genus:Lanius country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "shore lark" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 8
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "genus:Erythrocebus" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Anas formosa" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Eirenis" ; Times: 2
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "specificepithet:boehmei genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "zeeland" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Otocolobus manul" ; Times: 13
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 1
+	Query: "Merlangius merlangus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 756 download events in this period)
+Total number of records downloaded: 1528
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 27
+	Country: Netherlands ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-13 ; Times: 3
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "coronella girondica" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "equinus" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
