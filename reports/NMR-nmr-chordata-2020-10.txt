@@ -1,0 +1,310 @@
+Report for Institution Code NMR, Resource nmr-chordata
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 269
+Number of records retrieved in searches: 1673
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 68
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Bangladesh ; Times: 4
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 13
+	Country: Guatemala ; Times: 3
+	Country: France ; Times: 29
+	Country: United Kingdom ; Times: 115
+	Country: Austria ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-19 ; Times: 13
+	Date: 2020-10-08 ; Times: 12
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 121
+	Date: 2020-10-10 ; Times: 8
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 5
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-23 ; Times: 7
+	Date: 2020-10-22 ; Times: 4
+	Date: 2020-10-21 ; Times: 8
+	Date: 2020-10-20 ; Times: 9
+	Date: 2020-10-27 ; Times: 6
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-30 ; Times: 14
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 11
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 7
+	Date: 2020-10-17 ; Times: 8
+	Date: 2020-10-06 ; Times: 9
+	Date: 2020-10-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "Lesser kudu" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "scientificname:Alouatta seniculus" ; Times: 1
+	Query: "scientificname:Scomberesox saurus saurus" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:NMR" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Cephalorhynchus heavisidii" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 12
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Psittacula krameri stomach" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "galictis vittata" ; Times: 3
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "capra pyrenaica pyrenaica" ; Times: 2
+	Query: "Aonyx capensis" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 4
+	Query: "Meles meles" ; Times: 1
+	Query: "Circaetus gallicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 3
+	Query: "Neogobius melanostomus" ; Times: 1
+	Query: "Raja undulata" ; Times: 1
+	Query: "family:Triglidae" ; Times: 22
+	Query: "Felis silvestris" ; Times: 1
+	Query: "genus:phocoena lifestage:fetus" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "mappable:1 scientificname:Mesoplodon europaeus" ; Times: 2
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "Eutrigla gurnardus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes preparations:alcohol" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Morus bassanus" ; Times: 1
+	Query: "mappable:1 scientificname:Orcinus orca" ; Times: 2
+	Query: "specificepithet:puiseuxi genus:Ptyodactylus institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco preparations:egg" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "Sparus aurata" ; Times: 4
+	Query: "Monodon monoceros" ; Times: 8
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Panthera tigris" ; Times: 4
+	Query: "Rynchops niger" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 2
+	Query: "Felis margarita" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "scientificname:Panthera tigris" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Arctocephalus forsteri" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Anser indicus" ; Times: 1
+	Query: "atherina boyeri" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "pterodroma cookii" ; Times: 11
+	Query: "Dolichophis jugularis" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "panthera tigris altaica" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Sus scrofa" ; Times: 3
+	Query: "capra pyrenaica vntype:specimen country:&#34;Spain&#34;" ; Times: 1
+	Query: "family:delphinidae lifestage:fetus" ; Times: 1
+	Query: "mappable:1 scientificname:Mullus surmuletus" ; Times: 2
+	Query: "specificepithet: equinus genus: Hippotragus" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 5
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "Hollands" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Lagenorhynchus acutus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:griseonotus genus:Asaccus institutioncode:NMR" ; Times: 1
+	Query: "Alosa fallax" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "tuatara" ; Times: 1
+	Query: "Lagenorhynchus albirostris" ; Times: 1
+	Query: "Homo sapiens" ; Times: 6
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 1
+	Query: "Sterna striata" ; Times: 2
+	Query: "mappable:1 scientificname:Sphoeroides spengleri" ; Times: 5
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Chelonoidis carbonarius" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "mappable:1 scientificname:Pleuronectes platessa" ; Times: 5
+	Query: "Morus serrator" ; Times: 2
+	Query: "specificepithet:boehmei genus:Tarentola institutioncode:NMR" ; Times: 1
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 2
+	Query: "mappable:1 scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "(diamondback terrapin)" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Callorhinchus callorynchus" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NMR" ; Times: 1
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:Rana specificepithet:pseudodalmatina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1521 download events in this period)
+Total number of records downloaded: 1775
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 38
+	Country: Australia ; Times: 10
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 5
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 7
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-28 ; Times: 7
+	Date: 2020-10-23 ; Times: 7
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Passeridae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "capra pyrenaica pyrenaica" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "family:Sylviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "specificepithet:granti genus:gazella" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "family:Passeridae class:aves preparations:egg" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "family:Strigidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "specificepithet:imberbis genus:tragelaphus" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "class:Mammalia country:&#34;United States&#34; continent:America year &gt;= 1800 year &lt;= 2015 hastypestatus:1" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "family:Recurvirostridae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "specificepithet:walleri genus:litocranius" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "family:Sylviidae class:aves preparations:egg" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "family:Laridae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen specificepithet:Grevyi genus:Equus" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "family:Falconidae class:Aves preparations:Egg" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "family:Phasianidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NMR" ; Times: 1
+	Query: "specificepithet:arundinum genus:redunca" ; Times: 1
+	Query: "family:Triglidae" ; Times: 1
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+
+
+End of report.
